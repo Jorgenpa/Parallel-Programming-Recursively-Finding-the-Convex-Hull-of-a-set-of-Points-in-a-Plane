@@ -11,7 +11,7 @@ The program is run with:
 ```bash
 java Oblig5 <n> <seed> <mode>
 ```
-where <n> and <seed> need to be positive integers and the modes are <seq> or <par>. 
+where "<n>" and <seed> need to be positive integers and the modes are <seq> or <par>. 
 
 The number of threads on the computer will be used. 
 
